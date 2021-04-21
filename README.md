@@ -20,7 +20,7 @@ This is a `svelte` playground scaffolded with `vite` to start a new project. It 
 
 `npm run build` to build for production.
 
-`npm run serve` to preview production build.
+`npm run serve` to preview the production build.
 
 ---
 
