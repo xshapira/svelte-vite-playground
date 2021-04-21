@@ -1,0 +1,25 @@
+/** Imports  */
+
+@import url('https://fonts.googleapis.com/css?family=Overpass');
+
+/** Set everything to border-box */
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+/** Your global styles go here */
+
+h1 {
+	font-family: Overpass, monospace;
+}
+
+p {
+	font-family: Overpass, monospace;
+}
