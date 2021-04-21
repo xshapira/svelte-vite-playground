@@ -26,4 +26,4 @@ This is a `svelte` playground scaffolded with `vite` to start a new project. It 
 
 ## **Check out [Svelte](https://svelte.dev/) & [ViteJS](https://vitejs.dev/) for more info.**
 
-### Feel free to use this as a [template]().
+### Feel free to use this as a [template](https://github.com/kr40/svelte-vite-playground/generate).
