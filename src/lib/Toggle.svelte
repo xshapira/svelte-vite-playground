@@ -1,6 +1,6 @@
 <script>
 	function toggleTheme() {
-		const theme = document.getElementsByTagName('link')[2];
+		const theme = document.getElementsByTagName('link')[6];
 
 		if (theme.getAttribute('href') == 'https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css') {
 			theme.setAttribute('href', 'https://cdn.jsdelivr.net/npm/water.css@2/out/light.css');
