@@ -13,8 +13,7 @@
 		<strong>normalize.css, water.css, font-awesome 5, stylelint & eslint</strong> pre configured.
 		<br /><br />
 
-		<strong>
-			<span><i class="fas fa-info-circle" /></span>&nbsp; Assumes Prettier is already configured.</strong>
+		<strong> <span><i class="fas fa-info-circle" /></span>&nbsp; Assumes Prettier is already configured.</strong>
 	</p>
 </main>
 
